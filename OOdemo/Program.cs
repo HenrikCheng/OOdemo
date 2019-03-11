@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OOdemo.Utils;
+using System;
 using System.Collections.Generic;
 
 namespace OOdemo
@@ -7,7 +8,7 @@ namespace OOdemo
     {
         static void Main(string[] args)
         {
-            //TextUtils.AnimateText("Ettan", 150);
+            TextUtils.AnimateText("Ettan", 150);
             //TextUtils.AnimateText("Tvåan", 150);
 
             //lösa utskrivning utan att använda static kräver mer kod = onödigt.

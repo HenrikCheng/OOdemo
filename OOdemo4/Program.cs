@@ -7,6 +7,8 @@ namespace OOdemo4
     {
         static void Main(string[] args)
         {
+            TextUtils.AnimateText("Ettan", 150);
+
             List<Animal> animals = new List<Animal>();
             animals.Add(new Cat());
             animals.Add(new Dog(10));
