@@ -1,7 +1,12 @@
 Hej!
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Runas meddelande:))
 =======
 Vilken är eran favorit färg?
 >>>>>>> f6c81d48019a3e7b5f53c0e1c91aa00e36743711
+=======
+
+hej henrik och emily!
+>>>>>>> runasBranch2
