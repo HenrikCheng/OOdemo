@@ -1,6 +1,4 @@
 Hej!
-<<<<<<< HEAD
-Det var en gÂng fˆr l‰nge l‰nge sedan ett slott med riddare och drakar.
-=======
-Vilken ‰r eran favorit f‰rg?
->>>>>>> f6c81d48019a3e7b5f53c0e1c91aa00e36743711
+hej henrik och emily!
+Det var en g√•ng f√∂r l√§nge l√§nge sedan ett slott med riddare och drakar.
+Vilken √§r eran favorit f√§rg?
